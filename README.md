@@ -10,7 +10,7 @@ This repository contains the documentation of the Fireflink Automation Project c
 
 ## 📂 Access the Document
 Click below to view the complete documentation:
-Fireflink-Scriptless-Automation-Introduction.pdf
+[View Fireflink Scriptless Automation Documentation](./Fireflink-Scriptless-Automation-Introduction.pdf)
 
 
 
