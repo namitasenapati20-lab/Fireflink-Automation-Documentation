@@ -5,7 +5,7 @@ Comprehensive documentation and conceptual framework design explanation for Fire
 This repository contains the documentation of the Fireflink Automation Project created for learning and practice purposes.
 
 ## 📄 Document Included
-. Fireflink-Scriptless-Automation-Introduction pdf
+Fireflink-Scriptless-Automation-Introduction.pdf
 
 ## 📂 Access the Document
 Click below to view the complete documentation:
